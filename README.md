@@ -22,7 +22,7 @@ and run use
 adonis serve --dev
 ```
 
-### Setup
+## Setup
 
 Use the adonis command to install the blueprint
 
@@ -32,7 +32,7 @@ adonis new yardstick --api-only
 
 or manually clone the repo and then run `npm install`.
 
-#### Migrations
+## Migrations
 
 Run the following command to run startup migrations.
 
@@ -40,7 +40,7 @@ Run the following command to run startup migrations.
 adonis migration:run
 ```
 
-##### DATABASE
+## DATABASE
 
 Add Database ignite.sql first on mysql before running
 
